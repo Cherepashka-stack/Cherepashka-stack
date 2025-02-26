@@ -57,9 +57,8 @@
 
 ## Образование👨‍🎓
 <div>
-  [<img src="https://github.com/user-attachments/assets/5e44e97d-78c6-4b01-b2d2-9b0e478d9a06" width="280px" hspace="10px" alt="Диплом»"]>
-
- </div>
+  [<img src="https://github.com/user-attachments/assets/2dfb6949-ac51-4529-a138-76b034f34570" width="280px" hspace="10px" alt="Диплом»"]>
+</div>
 
 Мой стек технологий👇
 
